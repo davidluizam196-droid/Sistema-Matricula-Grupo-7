@@ -1,46 +1,96 @@
-# 🎓 Proyecto: Sistema de Gestión de Matrículas - Grupo 7
+# 🎓 Proyecto: Sistema Integral de Inventarios Automatizados (SIIA) – Grupo 7
+
+---
 
 ## 📖 Descripción
-El **Sistema de Gestión de Matrículas** es una solución tecnológica diseñada para optimizar, simplificar y automatizar los procesos académicos de inscripción y administración académica, garantizando un control integral para todos los usuarios de la institución.
+
+El **Sistema Integral de Inventarios Automatizados (SIIA)** es un proyecto académico desarrollado en la asignatura de **Ingeniería de Software I** de la Universidad Agraria del Ecuador. Su propósito es diseñar, documentar y analizar una propuesta de sistema que permita optimizar la gestión de inventarios mediante el registro centralizado y en tiempo real de las entradas, salidas y distribución de productos.
 
 ---
 
 ## 🎯 Objetivo
-Desarrollar una plataforma web escalable que permita a estudiantes, docentes y administradores gestionar el proceso de matrícula de forma eficiente, transparente y trazable.
+
+Diseñar, documentar y analizar la propuesta de un sistema de control de inventarios denominado **Sistema Integral de Inventarios Automatizados (SIIA)**, que permita gestionar de forma centralizada y en tiempo real el registro de entradas, salidas y distribución de productos, mediante la aplicación de metodologías de Ingeniería de Software y el uso de algoritmos de optimización. Su finalidad es mejorar la eficiencia operativa, reducir errores humanos, garantizar la trazabilidad de los recursos y proporcionar información confiable para la toma de decisiones estratégicas dentro de la organización.
 
 ---
 
 ## 👩‍🏫 Docente
-* **Ing. Carlota Delgado Vera, MSI.**
+
+- **👩‍🏫 Ing. Carlota Delgado Vera, MSI.**
 
 ---
 
-## 👥 Integrantes del Grupo # 7
-* 👑 **Luis David Zúñiga Zambrano** — Líder del proyecto
-* 🏗️ **Jairo David Rosero Montenegro** — Arquitecto del proyecto
-* 📊 **Nestor Daniel Chang Moreira** — Analista del sistema del proyecto
+## 👥 Integrantes del Grupo #7
+
+| 👤 Integrante | 💼 Rol |
+|--------------|--------|
+| **👨 Luis David Zúñiga Zambrano** | 🚀 Líder del Proyecto |
+| **👨 Jairo David Rosero Montenegro** | 🏗️ Arquitecto del Proyecto |
+| **👨 Néstor Daniel Chang Moreira** | 📊 Analista del Sistema |
+
+---
+
+## ⚙️ Funcionalidades Principales
+
+- 📦 Registrar entradas de productos al inventario.
+- 📤 Controlar las salidas y distribución de productos.
+- 📈 Consultar existencias y movimientos en tiempo real.
+- 📊 Generar reportes e indicadores para apoyar la toma de decisiones.
 
 ---
 
 ## 🛠️ Herramientas Utilizadas
-* 💻 **Control de Versiones:** Git y GitHub
-* 🎨 **Diseño y Modelado:** StarUML / Draw.io
-* 📝 **Gestión de Proyectos:** Trello
-* ⚡ **Tecnologías Web:** HTML5, CSS3, JavaScript
+
+- 💻 **Python** – Desarrollo del sistema.
+- 🗄️ **MySQL** – Gestión de la base de datos.
+- 📐 **Draw.io** – Diagramas UML y de procesos.
+- 🏛️ **StarUML** – Modelado del sistema.
+- 📋 **Trello** – Gestión de tareas del proyecto.
+- 🌐 **Git y GitHub** – Control de versiones y trabajo colaborativo.
+- 📝 **Visual Studio Code** – Editor de código.
 
 ---
 
-## 📋 Requerimientos del Sistema
+## 📁 Estructura del Repositorio
 
-### 🕹️ Requerimientos Funcionales
-1. **RF-01 Módulo de Entretenimiento / Área Retro:** 
-   * El sistema debe contar con una ventana/interfaz especializada donde los usuarios puedan visualizar e interactuar con una selección de **videojuegos retro** durante periodos de espera o recesos interactivos.
-2. **RF-02 Gestión de Matrícula:** 
-   * Permitir el registro y la selección de asignaturas según la oferta académica disponible para el periodo lectivo.
-3. **RF-03 Control de Usuarios:** 
-   * Autenticación segura y asignación de roles diferenciados para Estudiantes, Docentes y Administradores.
+```text
+📦 proyect-siia-grupo-7
+│── 📄 README.md
+│── 📂 docs
+│── 📂 src
+│── 📂 tests
+│── 📂 design
+```
 
 ---
 
-## 🚀 Estado del Proyecto
-📌 **En Fase de Planificación y Diseño de Arquitectura**
+## 🚦 Estado del Proyecto
+
+🟡 **En desarrollo**
+
+Actualmente el proyecto se encuentra en la fase de análisis, documentación y diseño de la propuesta del sistema. Se están definiendo los requisitos, la arquitectura, los diagramas UML y la estructura inicial para el desarrollo del **Sistema Integral de Inventarios Automatizados (SIIA)**.
+
+---
+
+## 🎯 Resultados Esperados
+
+- ✅ Automatizar el control de inventarios.
+- ✅ Mejorar la eficiencia en la gestión de productos.
+- ✅ Reducir errores en los registros manuales.
+- ✅ Garantizar la trazabilidad de las operaciones.
+- ✅ Proporcionar información confiable para la toma de decisiones.
+- ✅ Aplicar metodologías de Ingeniería de Software durante el desarrollo del proyecto.
+
+---
+
+## 📚 Asignatura
+
+**💻 Ingeniería de Software I**
+
+**🏛️ Universidad Agraria del Ecuador**
+
+---
+
+## 📄 Licencia
+
+📜 Proyecto desarrollado con fines **académicos** para la asignatura de **Ingeniería de Software I** de la **Universidad Agraria del Ecuador**.
